@@ -1,8 +1,8 @@
 {
   "data":{
     "colors":{
-      "c_principal":"#263238",
-      "c_background":"#263238",
+      "c_principal":"#383838",
+      "c_background":"#383838",
       "c_ct_background":"#222D32",
       "c_ct_background2":"#222D32",
       "c_ct_text":"#CFD8DC",
