@@ -3,3 +3,5 @@
 --with-accent_color=#7986CB \
 --with-suggestion_color=#3F51B5 \
 --with-destruction_color=#FF5252 \
+
+header-color=#323232
