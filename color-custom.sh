@@ -4,4 +4,5 @@
 --with-suggestion_color=#3F51B5 \
 --with-destruction_color=#FF5252 \
 
-header-color=#323232
+header-color-old=#383838
+header-color=#212121

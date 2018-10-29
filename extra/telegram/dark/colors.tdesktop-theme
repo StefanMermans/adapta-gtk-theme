@@ -21,12 +21,12 @@ SELECTED_FG_COLOR: #FFFFFF;                     // Selected foreground color
 2ND_SELECTED_FG_COLOR: #FFFFFFDE;               // Secondary selected foreground color (87%)
 OSD_FG_COLOR: #CFD8DC;                          // Tooltip foreground color
 PLACEHOLDER_COLOR: #78909C;                     // Placeholder foreground color
-FIXED_SECONDARY_FG_COLOR: #383838DE;            // Dark foreground color in dark variant (87%)
+FIXED_SECONDARY_FG_COLOR: #212121DE;            // Dark foreground color in dark variant (87%)
 
 ACCENT_LABEL_COLOR: #8DCDC8;                    // Action-area foreground color
 2ND_ACCENT_LABEL_COLOR: #8DCDC8DE;              // Secondary action-area foreground color (87%)
 
-BG_COLOR: #383838;                              // Main background color
+BG_COLOR: #212121;                              // Main background color
 BASE_COLOR: #29353B;                            // Entry/Notebook background color
 SECONDARY_BASE_COLOR: #28343A;                  // Popover/Menu background color
 SECONDARY_DARK_COLOR: #243035;                  // Inline-toolbar background color
